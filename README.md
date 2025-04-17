@@ -10,7 +10,7 @@
 -  I just wanted to learn how to make some camera projects with C++,
 -  then I learned about Python and got pretty exited about that after doing some projects I wanted some GUI's for them so...
 -  I learned HTML,CSS, and JS foundations and after two years I enjoy working with animations with Blender and render them in the browser...
--  I really hope to work at some point on game develpment when I really master web-dev and I launch my buissness <3 
+-  I really hope to work at some point on game develpment when I really master web-dev and maybe launch my own buissness <3 
 
 <!---
 RaulMurilloDev/RaulMurilloDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
